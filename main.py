@@ -10,7 +10,7 @@ def main():
 
     profile_url = input('Enter your NameMC URL >: ') # defining the url
     
-    user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246'
+    user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.53'
     headers = {'user-agent': f'{user_agent}'}
 
     if profile_url == profile_url:
