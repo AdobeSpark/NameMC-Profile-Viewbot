@@ -1,3 +1,4 @@
-# NameMC Profile Viewbot
+# NameMC Botter
 
-This didn't exactly go to plan, since the proxies weren't good enough. Uploaded for educational purposes.
+Improved version of 1x6/NameMC-Profile-Viewbot (probably)
+Haven't tried yet.
